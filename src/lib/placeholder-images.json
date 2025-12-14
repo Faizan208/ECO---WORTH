@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-visual",
+      "description": "An abstract green watercolor background.",
+      "imageUrl": "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGJhY2tncm91bmR8ZW58MHx8fHwxNzY1ODMzNzg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green background"
+    },
+    {
+      "id": "faizan-mukhtar",
+      "description": "Profile picture for Faizan Mukhtar",
+      "imageUrl": "https://images.unsplash.com/photo-1594672830234-ba4cfe1202dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFuJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY1MTg1ODQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "m-altaaf",
+      "description": "Profile picture for M. Altaaf",
+      "imageUrl": "https://images.unsplash.com/photo-1615109398623-88346a601842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjUyOTM0OTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "marketplace-item-1",
+      "description": "A pile of mixed plastic pellets",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1572213426852-0e4ed8f41ff6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwbGFzdGljJTIwd2FzdGV8ZW58MHx8fHwxNzY1MTYwMjM1fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "plastic waste"
+    },
+    {
+      "id": "marketplace-item-2",
+      "description": "Scrap metal beams and parts",
+      "imageUrl": "https://images.unsplash.com/photo-1625662276901-4a7ec44fbeed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY3JhcCUyMG1ldGFsfGVufDB8fHx8MTc2NTE5NzQ1NHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "scrap metal"
+    },
+    {
+      "id": "marketplace-item-3",
+      "description": "Bundles of cardboard for recycling",
+      "imageUrl": "https://images.unsplash.com/photo-1753377773159-8fd6120240c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYXJkYm9hcmQlMjByZWN5Y2xpbmd8ZW58MHx8fHwxNzY1MjA1MzAzfDA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "cardboard recycling"
+    },
+    {
+      "id": "marketplace-item-4",
+      "description": "Used industrial textiles",
+      "imageUrl": "https://images.unsplash.com/photo-1561891597-65af7a1c4969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYWJyaWMlMjB3YXN0ZXxlbnwwfHx8fDE3NjUyMDUzMDN8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "fabric waste"
+    },
+    {
+      "id": "waste-upload-preview",
+      "description": "Placeholder for a user-uploaded waste image",
+      "imageUrl": "https://images.unsplash.com/photo-1577369083609-051feb777894?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2FzdGUlMjBwaWxlfGVufDB8fHx8MTc2NTE4NDA4MXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "waste pile"
+    }
+  ]
+}

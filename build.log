@@ -1,0 +1,48 @@
+
+> ecoworth-app@0.1.0 build
+> next build
+
+   ▲ Next.js 15.0.3
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/21) ...
+   Generating static pages (5/21) 
+   Generating static pages (10/21) 
+   Generating static pages (15/21) 
+ ✓ Generating static pages (21/21)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    3.92 kB         170 kB
+├ ○ /_not-found                          901 B           101 kB
+├ ƒ /dashboard                           6.2 kB          122 kB
+├ ƒ /dashboard/admin/analytics           99.9 kB         207 kB
+├ ƒ /dashboard/admin/transactions        148 B           100 kB
+├ ƒ /dashboard/admin/users               148 B           100 kB
+├ ƒ /dashboard/bids                      148 B           100 kB
+├ ƒ /dashboard/certificates              148 B           100 kB
+├ ƒ /dashboard/esg-report                5.14 kB         112 kB
+├ ƒ /dashboard/marketplace               3.99 kB         148 kB
+├ ƒ /dashboard/orders                    148 B           100 kB
+├ ƒ /dashboard/upload                    140 B           119 kB
+├ ƒ /dashboard/waste                     175 B           109 kB
+├ ƒ /dashboard/waste/upload              140 B           119 kB
+├ ○ /icon.jpg                            0 B                0 B
+├ ○ /login                               7.32 kB         202 kB
+├ ○ /marketplace                         2.69 kB         172 kB
+├ ○ /signup                              12.5 kB         232 kB
+└ ○ /test-connection                     4.89 kB         160 kB
++ First Load JS shared by all            99.9 kB
+  ├ chunks/4bd1b696-22ed38537e64a212.js  52.5 kB
+  ├ chunks/517-78e742e5a9869d6e.js       45.4 kB
+  └ other shared chunks (total)          2.03 kB
+
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+
